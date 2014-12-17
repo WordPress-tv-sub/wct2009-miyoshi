@@ -1,311 +1,383 @@
 0:00:21.015,0:00:22.755
-みなさんおはようございます
+Good morning everyone.
 
 0:00:35.663,0:00:38.197
-みなさんおはようございます。
+Good morning everyone.
 
 0:00:38.197,0:00:42.272
-先ほど紹介に預かりました三好隆之と申します
+I'm Takayuki Miyoshi
 
 0:00:42.292,0:00:47.424
-WordPress についてはプラグインをいくつか公開していまして
+I make plugins.
 
 0:00:47.424,0:00:53.446
-Contact Form 7 とか、もしかしたら使った事がある方もいらっしゃるかもしれませんけど
+Contact Form 7. Some of you uses it, I think.
 
 0:00:53.446,0:00:55.586
-そういうのを作っています。
+I do that kind of things.
 
 0:00:55.586,0:00:59.306
-今日最初のお話ですが
+What's topic?
 
 0:00:59.306,0:01:03.396
-WordBenchというプロジェクトをちょっと前から始めています。
+A project called "WordBench" started recently.
 
 0:01:03.397,0:01:06.017
-それについて話をしたいと思います。
+Let me talk about it.
 
 0:01:15.295,0:01:20.345
-最初にちょっと質問をしたいのですが
+I have questions.
 
 0:01:20.707,0:01:28.007
-今日、遠くから来られた方、東京以外から来られた方、どれくらいいらっしゃいますか
+Who came from outside of Tokyo?
 
 0:01:28.007,0:01:29.777
-手を挙げてもらっていいですか？
+Raise your hands.
 
 0:01:29.777,0:01:33.507
-結構いますね。半分くらいいるんじゃないですか。
+Quite a lot. Half of you.
 
 0:01:33.968,0:01:37.968
-関東以外から来られたという方は？
+Outside of Kanto area?
 
 0:01:38.748,0:01:40.278
-結構いますね。
+A lot.
 
 0:01:42.342,0:01:44.582
-５分の1くらい。
+about 1/5
 
 0:01:47.863,0:01:50.773
-九州から来られた方は？
+From Kyushu area?
 
 0:01:50.773,0:01:52.673
-さすがにいませんね。
+No one.
 
 0:01:53.733,0:01:55.373
-北海道は？
+Hokkaido?
 
 0:01:55.373,0:01:58.723
-北海道は何人かいますね。
+A few.
 
 0:01:59.359,0:02:08.429
-何の話かと言いますと、前回の WordCamp Tokyo で去年の9月に行ったんですけど
+So, I was at WordCamp tokyo November last year
 
 0:02:08.729,0:02:14.769
-その時に懇親会で簡単に話をしたんです
+We talked at the after party.
 
 0:02:26.643,0:02:30.643
-前回の懇親会で、この WordCamp のような場、
+Some opportunity like this WordCamp
 
 0:02:33.493,0:02:38.473
-他のユーザーや他の開発者と交流を深めるような場所
+where you can communicate with users and developers
 
 0:02:38.473,0:02:42.553
-というのは結構楽しいなということで
+It's fun.
 
 0:02:42.553,0:02:45.953
-もうちょっと活発にやったらいいんじゃないかなと思ったのですが
+We thought we could be more active about it.
 
 0:02:45.953,0:02:53.173
-さすがにこの規模の会をそんなどこでもできるわけじゃないですし
+If it's as big as this WC, it's not possible for everyone
 
 0:02:53.173,0:02:55.553
-地方の方だと特にそうだと思うのですが
+especially if you are in country side.
 
 0:02:55.553,0:02:57.643
-そんなに人が集まらないですよね。
+You don't get this much people.
 
 0:02:57.645,0:03:02.945
-私は福岡出身で今回も福岡から来ているのですが
+I'm from Fukuoka, I came from Fukuoka today,
 
 0:03:02.945,0:03:06.041
-まあ、福岡でも集まる方ではあるのですが
+We get together in Fukuoka too.
 
 0:03:06.041,0:03:10.877
-それでもなかなかこういう大きい会場とかというのは難しい
+But this big thing is difficult.
 
 0:03:10.877,0:03:20.007
-でもネットでやりとりするだけじゃなくて人と人と会って話をしたい。
+We want to actually meet people, not only online.
 
 0:03:20.007,0:03:22.497
-結構それは重要だと思うんですよ。
+It's important.
 
 0:03:22.953,0:03:29.223
-なんというか、勉強会をやったりとかそんな堅苦しい事じゃなくても
+It doesn't have to be study group or very formal ones
 
 0:03:29.223,0:03:31.803
-単に飲み会でも良いと思うんですけど
+simply a casual party maybe.
 
 0:03:31.803,0:03:35.803
-交流を深めて他の人がどんな事をやっているかとか
+Knowing each other, what they do and so on
 
 0:03:35.803,0:03:39.563
-例えば一緒に仕事をしたりという事もあるかもしれないし
+You could work together for example
 
 0:03:39.563,0:03:44.533
-そういう機会をもっと作ったら良いんじゃないかという話を前回の懇親会でしました
+We need more of this kind of opportunity. That's what we talked at the last after party
 
 0:03:44.533,0:03:47.783
-前回も来られてる方ってどれくらいいますか？
+Who came to the last WordCamp?
 
 0:03:47.783,0:03:49.513
-ちょっと手を挙げてください
+Raise your hands.
 
 0:03:50.963,0:03:52.463
-5分の1くらい
+around 1/5
 
 0:03:52.607,0:03:56.607
-多分、この話は今回みなさんへは最初になると思うのですが
+It maybe the first time you hear about it.
 
 0:03:57.461,0:04:01.461
-WordBenchというプロジェクトについて簡単に説明をします
+Introducing a project named "WordBench"
 
 0:04:07.126,0:04:11.126
-WordBenchというのは何かというと
+What's WordBench?
 
 0:04:11.126,0:04:14.606
-WordPressのユーザーと開発者のための地域のコミュニティ
+Local community for WordPress users & developers
 
 0:04:16.628,0:04:20.628
-例えば私だったら福岡だとか、それぞれ皆さんの地域のコミュニティを
+For me, Fukuoka. Why don't we have our own local ones.
 
 0:04:20.628,0:04:24.478
-簡単に作って共有できる場所を作ろうじゃないかと
+Let's have a hub where we can make and share the communities.
 
 0:04:27.305,0:04:31.305
-これは単純に私が言いだしているだけで特に公式なプロジェクトとかではないんですよ
+It's just what I'm personaly saying. It's not something official.
 
 0:04:31.305,0:04:34.095
-単になんかそういうのを作ったら良いんじゃないかなと
+I just think that it's good to have it.
 
 0:04:34.394,0:04:38.394
-どうなるかわからないのですが、そういうのをやりましょうと呼びかけを前回しました。
+That was what I called for at the last WC afterparty.
 
 0:04:41.798,0:04:45.798
-大体半年ぐらいになるのですが、そんなに大々的に呼びかけもしていないので
+It's been around half a year without big annoucements,
 
 0:04:45.884,0:04:49.884
-今のところどういう状況かと言いますと
+The stats for now is...
 
 0:04:55.922,0:04:59.922
-これは日本地図なのですが、大体12カ所ぐらいの地域が参加しているという状況です。
+So it's Map of Japan, we have 12 areas.
 
 0:05:00.229,0:05:04.229
-一番南だと沖縄、あと九州、私の地元の福岡。
+Okinawa is the most south, my home town Fukuoka in Kyushu.
 
 0:05:06.057,0:05:14.287
-四国なら香川、あと、岡山、神戸、名古屋、静岡、長野、川崎、東京、埼玉
+Kagawa in Shikoku, Okayama, Kobe, Nagoya, Shizuoka, Nagano, Kawasaki, Tokyo, Saitama
 
 0:05:14.287,0:05:17.839
-この12地域が参加している状態です
+We have those 12.
 
 0:05:20.754,0:05:24.754
-ここに出ている地域から来られた方、手を挙げて頂いて良いですか？
+If you are from these areas, can you raise your hands?
 
 0:05:24.754,0:05:26.664
-何人かいますね
+We have a few.
 
 0:05:28.440,0:05:32.440
-WordBenchを初めて話を聞いたという方その中で何人いますか？
+Is it the first time you hear about WordBench?
 
 0:05:34.130,0:05:37.020
-もう結構知ってますかね
+You already know about it.
 
 0:05:37.907,0:05:45.457
-ぜひこの機会にWordCampのような盛り上がりの場所を自分の地元に持ち帰って頂いて
+I want you to bring the groove of WC to your local town,
 
 0:05:45.457,0:05:52.077
-小さいコミュニティを日本中に広げるような感じで参加してもらいたいなと思います
+let's spread smaller local communities in everywhere in Japan.
 
 0:05:54.302,0:05:58.302
-まだそんなに告知もしておりませんので
+We haven't announced that much so,
 
 0:05:58.302,0:06:01.922
-人数としては今42人ぐらい
+now we have 42 members.
 
 0:06:01.935,0:06:04.345
-もっとこれを大きくしていきたいと思いますので
+We want it bigger.
 
 0:06:05.336,0:06:11.346
-ぜひ興味を持っていらっしゃる方は、この場所でも良いし帰られてからでも良いので
+If interested, from here or from home,
 
 0:06:11.346,0:06:14.716
-WordBenchのサイトへ行って参加して欲しいなと思います。
+go to WordBench website and join us.
 
 0:06:18.255,0:06:22.255
-今までWordBench、どういうシステムで動かして来たかというと、
+The system we used until recently was
 
 0:06:22.255,0:06:25.505
-WordPress MU、マルチユーザーのタイプを使ってまして
+WordPress MU, Mult User
 
 0:06:26.824,0:06:30.824
-正直なところ運営がうまくいっていなかったところがありまして
+to be honest some issues didn't work well
 
 0:06:30.824,0:06:34.294
-なかなか盛り上がらないところがあったんですが
+It's been difficult to have people getting involved
 
 0:06:35.040,0:06:38.966
-色々、どうやったらうまくいくかなと工夫してみてですね
+So we tried this and that,
 
 0:06:39.912,0:06:43.040
-行きついたのが BuddyPress を使うと
+Finally we came to BuddyPress.
 
 0:06:43.377,0:06:48.207
-BuddyPress に関してはもっと後で詳しい話があるかもしれないのですが、
+There might be more about BuddyPress later but,
 
 0:06:51.481,0:06:55.481
-WordPress 上でソーシャルネットワークのプラットフォームを作れるという
+it enables you to create a platform of social network on top of WordPress
 
 0:06:57.764,0:07:01.764
-今の WordBench の画面がこんな風になっているのですが
+WordBench looks like this.
 
 0:07:03.935,0:07:07.935
-これが福岡のグループでして、こういうグループをどんどん作って
+It's Fukuoka group and we create this kind of groups.
 
 0:07:09.458,0:07:13.458
-それに福岡の人や興味を持っている人がどんどん参加していって
+We get people in Fukuoka or interested people joins.
 
 0:07:14.279,0:07:18.279
-ソーシャルネットワークなので中でメッセージのやりとりですとか
+You can message each other in the network.
 
 0:07:20.846,0:07:27.836
-友達同士で良くあるユーザー同士の関係というのも作っていけると
+You can build relationships with your friends
 
 0:07:35.753,0:07:45.123
-簡単に説明をすると WordPress MU の上で、プラグインとして動いている
+Simply, it's a plugin working on WordPress MU.
 
 0:07:48.508,0:07:54.978
-まだ開発段階で、現在が RC1 という状況なのだが、それを早速使って
+Development is going on right now. It's RC1. We use this.
 
 0:07:55.210,0:08:04.330
-早速といっても先週ぐらいにようやく導入した状況なのですがこういう感じでできていますので
+We installed 1 week ago and we are already here.
 
 0:08:11.269,0:08:15.269
-地域のコミュニティに興味がない方でも BuddyPress の仕組みに興味のある方なんかも参加したら面白いかなと思います
+If you want to know what BuddyPress is like, you can join here.
 
 0:08:15.269,0:08:17.839
-BuddyPress ってご存知ですか、皆さん
+Who knows BuddyPress?
 
 0:08:17.839,0:08:19.039
-知ってる方、手を挙げてください
+Raise your hands.
 
 0:08:19.102,0:08:23.102
-そんなに知名度無いですね
+Not much.
 
 0:08:24.138,0:08:28.138
-多分、これ面白くなると思うので、ぜひ参加して欲しいなと思います
+It's going to be very interesting. Please join.
 
 0:08:35.730,0:08:39.730
-あと、早速なんですがロゴを決めまして
+We have a logo too.
 
 0:08:45.012,0:08:49.012
-メンバーの間でコンペをやりまして、これが一番人気があったということでこんなロゴになっています
+We had a competition and this got the first prize.
 
 0:08:54.900,0:08:58.900
-地域でどんな活動をしているよというのを紹介したいと思うのですが
+I want to introduce the activities in each locations,
 
 0:09:02.283,0:09:06.283
-今日はあんまり各地域の方が来られていなかったので
+today we don't have many from each locals,
 
 0:09:07.183,0:09:11.183
-2地域ぐらいだけなのですが大体感じをつかんで頂けたらと思います
+only 2 but you'll know what the community is like.
 
 0:09:15.671,0:09:22.071
-早速、私の地元福岡ですが、今のところ福岡が一番人数が多くて15名ぐらい参加しています
+First, my home town Fukuoka. For now the biggest members of 15.
 
 0:09:29.683,0:09:33.683
-大体福岡に住んでいる方ですが、それ以外に福岡の近くに住んでいる方（例えば佐賀とか）も参加していますし
+Those who live in Fukuoka, and near Fukuoka such as Saga also joins.
 
 0:09:37.160,0:09:41.160
-それ以外に福岡が地元で東京に住んでいらっしゃる方、そういう人も参加しています
+Even those who lives in Tokyo and are from Fukuoka.
 
 0:09:44.117,0:09:48.117
-なので、そんな風に地域だからといって地域限定では考えておりませんので
+It's local community but not only for local people.
 
 0:09:48.117,0:09:50.917
-気楽に入って欲しいなと思います
+Feel free to join.
 
 0:09:56.103,0:10:00.103
-実は半年たって、私自身福岡の方であまり活発に活動する時間がなかったものですから
+After half a year, I didn't have enough time to be active to this,
 
 0:10:00.862,0:10:04.862
-今まであんまり福岡の方で何かをやるということはなかったのですが
+We haven't done anything specially.
 
 0:10:13.823,0:10:17.823
-4月26日に最初のWordPressの勉強会というものを福岡でやろうと考えています
+But on 26th April, there'll be the first study group in Fukuoka.
 
 9:59:59.000,9:59:59.000
-福岡の無料で使えるカフェで、参加費無料でやりたいと思います
+At a free café, no charge.
 
-9:59:59.000,9:59:59.000
-私が良くプラグインを作っているので、プラグインの簡単な
+0:10:26.755,0:10:31.783
+私が良くプラグインを作っているので
+
+0:10:31.783,0:10:38.503
+プラグインの簡単な作り方という話をそこでしようかなと思っています
+
+0:10:38.503,0:10:41.833
+これの呼びかけもWordBenchの方でやっておりまして
+
+0:10:41.833,0:10:47.433
+WordBenchのグループの方から参加申し込みを受けるというような感じにしています
+
+0:10:49.414,0:10:54.684
+次、川崎の百合子さんから（百合子さんに代わる）
+
+0:10:55.705,0:10:59.845
+WordBench川崎を担当している池田百合子と申します
+
+0:11:01.771,0:11:05.841
+WordBench川崎の方を開かせて頂いてメンバーは6人ぐらいで
+
+0:11:06.001,0:11:08.761
+今のところ楽しく宴会をしているだけです
+
+0:11:08.770,0:11:12.370
+今後勉強会もしたいなと思っているのですが
+
+0:11:13.844,0:11:17.844
+宴会で3人ぐらい集まって乾杯をしたりしています
+
+0:11:17.865,0:11:21.865
+4月は忙しくてまだ計画がないのですが
+
+0:11:22.015,0:11:25.745
+4月下旬か5月頭ぐらいに開催しようかと考えていますので
+
+0:11:25.974,0:11:29.654
+WordBench.orgの方で予定をみてもらったら良いかと思います。
+
+0:11:29.704,0:11:33.704
+以上です。（三好さんへ代わる）
+
+0:11:36.459,0:11:43.839
+12地域あるのですが残念ながら2地域しかこの場には来れなかったんですけども
+
+0:11:44.143,0:11:48.193
+ぜひまた今度WordCampとかがある時には
+
+0:11:48.702,0:11:55.406
+日本中にですね、例えば北海道の方とか、東北の方もまだないですし
+
+0:11:55.406,0:12:03.656
+この場で興味を持って頂いた方に、ぜひ新しく参加して欲しいなと思います
+
+0:12:03.674,0:12:11.283
+こちらがWordBenchのURLなんですけども
+
+0:12:11.283,0:12:17.533
+またどこかで発表すると思いますが、ここに気軽にアクセスしてもらって
+
+0:12:17.636,0:12:25.246
+まだ英語の状態なのでわかりにくいかもしれませんが普通にサインアップして頂いて
+
+0:12:25.354,0:12:33.050
+各地域、自分の地域に参加するとして頂いて、もしなかったら、新しく作りますので、
+
+0:12:33.050,0:12:42.470
+そういう感じでどんどん日本中に草の根のネットワークをどんどん広げていってもらいたいと思います
+
+0:12:42.606,0:12:46.516
+今回のWordBenchの話はこれで終わります
+
+0:12:46.792,0:12:52.272
+ありがとうございました
